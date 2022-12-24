@@ -568,6 +568,7 @@ main
     .newsletter-container
     {
         width: 90%;
+        padding: 5% 3%;
     }
     .newsletter-container h2 {
         font-size: 1.3em;
@@ -611,5 +612,9 @@ main
     .f-info h2
     {
         font-size: 1.3em;
+    }
+    .featured-image-container
+    {
+        margin-top: 22%;
     }
 }
